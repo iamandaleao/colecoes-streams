@@ -1,6 +1,6 @@
 # Praticando Java: Coleções e Streams
 
-Este projeto apresenta a aplicação prática de coleções em Java e da Stream API, explorando operações de manipulação, transformação e análise de dados.
+Este repositório apresenta a aplicação prática de coleções em Java e da Stream API, explorando operações de manipulação, transformação e análise de dados.
 
 As implementações foram organizadas em exercícios que representam cenários recorrentes no desenvolvimento de software, como gestão de funcionários, clientes, eventos, cálculos financeiros e análise de desempenho acadêmico.
 
@@ -11,7 +11,7 @@ As implementações foram organizadas em exercícios que representam cenários r
 
 Aplicar, na prática, os principais recursos do **Collections Framework** e da **Stream API**, desenvolvendo soluções claras, organizadas e alinhadas às boas práticas da linguagem Java.
 
-Este projeto demonstra:
+Estes exercícios demonstram:
 - Capacidade de manipular estruturas de dados
 - Uso de programação funcional com Streams
 - Escrita de código legível e bem estruturado
