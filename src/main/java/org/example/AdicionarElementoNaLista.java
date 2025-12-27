@@ -1,7 +1,9 @@
+package org.example;
+
 import java.util.ArrayList;
 import java.util.List;
 
-public class Main {
+public class AdicionarElementoNaLista {
     public static void main(String[] args) {
         List<String> funcionarios = new ArrayList<>();
 
